@@ -11,7 +11,7 @@ Insights and recommendations are provided on the following key areas:
 
 
 
-The python script used to report and explore trends as well as create the visualizations can be found here [link].
+The python script used to report and explore trends as well as create the visualizations can be found here [link](https://github.com/tatiana-litvin/netflix_viewing_activity/blob/main/netflix-analysis.ipynb).
 
 
 
